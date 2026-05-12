@@ -316,9 +316,9 @@ export const flagsData = [
   {
     id: 've', difficulty: 'normal', region: 'americas',
     imageUrl: 'https://flagcdn.com/w320/ve.png',
-    name_en: `Venezuela`, name_jp: 'ベネズエラ・ボリバル共和国',
+    name_en: `Venezuela`, name_jp: 'ベネズエラ·ボリバル共和国',
     officialName_en: `Bolivarian Republic of Venezuela`, officialName_jp: 'ベネズエラ·ボリバル共和国',
-    acceptedNames_jp: ["ベネズエラ・ボリバル共和国", "ベネズエラ·ボリバル共和国"],
+    acceptedNames_jp: ["ベネズエラ·ボリバル共和国", "ベネズエラ·ボリバル共和国"],
     acceptedNames_en: ["venezuela", "bolivarian republic of venezuela"],
   },
   {
@@ -348,9 +348,9 @@ export const flagsData = [
   {
     id: 'ir', difficulty: 'normal', region: 'asia',
     imageUrl: 'https://flagcdn.com/w320/ir.png',
-    name_en: `Iran`, name_jp: 'イラン・イスラム共和国',
+    name_en: `Iran`, name_jp: 'イラン·イスラム共和国',
     officialName_en: `Islamic Republic of Iran`, officialName_jp: 'イラン·イスラム共和国',
-    acceptedNames_jp: ["イラン・イスラム共和国", "イラン·イスラム共和国"],
+    acceptedNames_jp: ["イラン·イスラム共和国", "イラン·イスラム共和国"],
     acceptedNames_en: ["iran", "islamic republic of iran"],
   },
   {
@@ -484,9 +484,9 @@ export const flagsData = [
   {
     id: 'tt', difficulty: 'hard', region: 'americas',
     imageUrl: 'https://flagcdn.com/w320/tt.png',
-    name_en: `Trinidad and Tobago`, name_jp: 'トリニダード・トバゴ',
+    name_en: `Trinidad and Tobago`, name_jp: 'トリニダード·トバゴ',
     officialName_en: `Republic of Trinidad and Tobago`, officialName_jp: 'トリニダード·トバゴ共和国',
-    acceptedNames_jp: ["トリニダード・トバゴ", "トリニダード·トバゴ共和国"],
+    acceptedNames_jp: ["トリニダード·トバゴ", "トリニダード·トバゴ共和国"],
     acceptedNames_en: ["trinidad and tobago", "republic of trinidad and tobago"],
   },
   {
@@ -516,9 +516,9 @@ export const flagsData = [
   {
     id: 'bn', difficulty: 'hard', region: 'asia',
     imageUrl: 'https://flagcdn.com/w320/bn.png',
-    name_en: `Brunei`, name_jp: 'ブルネイ・ダルサラーム',
+    name_en: `Brunei`, name_jp: 'ブルネイ·ダルサラーム',
     officialName_en: `Nation of Brunei, Abode of Peace`, officialName_jp: 'ブルネイ、平和の精舎の国家',
-    acceptedNames_jp: ["ブルネイ・ダルサラーム", "ブルネイ、平和の精舎の国家"],
+    acceptedNames_jp: ["ブルネイ·ダルサラーム", "ブルネイ、平和の精舎の国家"],
     acceptedNames_en: ["brunei", "nation of brunei, abode of peace"],
   },
   {
@@ -612,9 +612,9 @@ export const flagsData = [
   {
     id: 'sy', difficulty: 'hard', region: 'asia',
     imageUrl: 'https://flagcdn.com/w320/sy.png',
-    name_en: `Syria`, name_jp: 'シリア・アラブ共和国',
+    name_en: `Syria`, name_jp: 'シリア·アラブ共和国',
     officialName_en: `Syrian Arab Republic`, officialName_jp: 'シリアアラブ共和国',
-    acceptedNames_jp: ["シリア・アラブ共和国", "シリアアラブ共和国", "シリア"],
+    acceptedNames_jp: ["シリア·アラブ共和国", "シリアアラブ共和国", "シリア"],
     acceptedNames_en: ["syria", "syrian arab republic"],
   },
   {
@@ -782,7 +782,7 @@ export const flagsData = [
     imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/3840px-Flag_of_the_Taliban.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail',
     name_en: `Afghanistan`, name_jp: 'アフガニスタン',
     officialName_en: `Islamic Republic of Afghanistan`, officialName_jp: 'アフガニスタン·イスラム共和国',
-    acceptedNames_jp: ["アフガニスタン", "アフガニスタン·イスラム共和国", "アフガニスタン・イスラム首長国"],
+    acceptedNames_jp: ["アフガニスタン", "アフガニスタン·イスラム共和国", "アフガニスタン·イスラム首長国"],
     acceptedNames_en: ["afghanistan", "islamic republic of afghanistan", "Islamic Emirate of Afghanistan"],
   },
   {
@@ -908,9 +908,9 @@ export const flagsData = [
   {
     id: 'ba', difficulty: 'hard', region: 'europe',
     imageUrl: 'https://flagcdn.com/w320/ba.png',
-    name_en: `Bosnia and Herzegovina`, name_jp: 'ボスニア・ヘルツェゴビナ',
+    name_en: `Bosnia and Herzegovina`, name_jp: 'ボスニア·ヘルツェゴビナ',
     officialName_en: `Bosnia and Herzegovina`, officialName_jp: 'ボスニア·ヘルツェゴビナ',
-    acceptedNames_jp: ["ボスニア・ヘルツェゴビナ", "ボスニア·ヘルツェゴビナ"],
+    acceptedNames_jp: ["ボスニア·ヘルツェゴビナ", "ボスニア·ヘルツェゴビナ"],
     acceptedNames_en: ["bosnia and herzegovina"],
   },
   {
@@ -1340,9 +1340,9 @@ export const flagsData = [
   {
     id: 'st', difficulty: 'extreme', region: 'africa',
     imageUrl: 'https://flagcdn.com/w320/st.png',
-    name_en: `São Tomé and Príncipe`, name_jp: 'サントメ・プリンシペ',
+    name_en: `São Tomé and Príncipe`, name_jp: 'サントメ·プリンシペ',
     officialName_en: `Democratic Republic of São Tomé and Príncipe`, officialName_jp: 'サントメ·プリンシペ民主共和国',
-    acceptedNames_jp: ["サントメ・プリンシペ", "サントメ·プリンシペ民主共和国"],
+    acceptedNames_jp: ["サントメ·プリンシペ", "サントメ·プリンシペ民主共和国"],
     acceptedNames_en: ["são tomé and príncipe", "democratic republic of são tomé and príncipe"],
   },
   {
@@ -1430,7 +1430,7 @@ export const flagsData = [
     imageUrl: 'https://flagcdn.com/w320/vc.png',
     name_en: `Saint Vincent and the Grenadines`, name_jp: 'セントビンセント及びグレナディーン諸島',
     officialName_en: `Saint Vincent and the Grenadines`, officialName_jp: 'セントビンセント及びグレナディーン諸島',
-    acceptedNames_jp: ["セントビンセント及びグレナディーン諸島", "セントビンセント・グレナディーン"],
+    acceptedNames_jp: ["セントビンセント及びグレナディーン諸島", "セントビンセント·グレナディーン"],
     acceptedNames_en: ["saint vincent and the grenadines"],
   },
   {
@@ -1500,9 +1500,9 @@ export const flagsData = [
   {
     id: 'ag', difficulty: 'extreme', region: 'americas',
     imageUrl: 'https://flagcdn.com/w320/ag.png',
-    name_en: `Antigua and Barbuda`, name_jp: 'アンティグア・バーブーダ',
+    name_en: `Antigua and Barbuda`, name_jp: 'アンティグア·バーブーダ',
     officialName_en: `Antigua and Barbuda`, officialName_jp: 'アンチグアバーブーダ',
-    acceptedNames_jp: ["アンティグア・バーブーダ", "アンチグアバーブーダ"],
+    acceptedNames_jp: ["アンティグア·バーブーダ", "アンチグアバーブーダ"],
     acceptedNames_en: ["antigua and barbuda"],
   },
   {
@@ -1524,9 +1524,9 @@ export const flagsData = [
   {
     id: 'kn', difficulty: 'extreme', region: 'americas',
     imageUrl: 'https://flagcdn.com/w320/kn.png',
-    name_en: `Saint Kitts and Nevis`, name_jp: 'セントクリストファー・ネイビス',
+    name_en: `Saint Kitts and Nevis`, name_jp: 'セントクリストファー·ネイビス',
     officialName_en: `Federation of Saint Christopher and Nevis`, officialName_jp: 'セントクリストファーNevis連盟',
-    acceptedNames_jp: ["セントクリストファー・ネイビス", "セントクリストファーNevis連盟"],
+    acceptedNames_jp: ["セントクリストファー·ネイビス", "セントクリストファーNevis連盟"],
     acceptedNames_en: ["saint kitts and nevis", "federation of saint christopher and nevis"],
   },
   {
@@ -1660,9 +1660,9 @@ export const flagsData = [
   {
     id: 'sx', difficulty: 'demon', region: 'americas',
     imageUrl: 'https://flagcdn.com/w320/sx.png',
-    name_en: `Sint Maarten`, name_jp: 'シント・マールテン',
+    name_en: `Sint Maarten`, name_jp: 'シント·マールテン',
     officialName_en: `Sint Maarten`, officialName_jp: 'シントマールテン島',
-    acceptedNames_jp: ["シント・マールテン", "シントマールテン島"],
+    acceptedNames_jp: ["シント·マールテン", "シントマールテン島"],
     acceptedNames_en: ["sint maarten"],
   },
   {
@@ -1700,9 +1700,9 @@ export const flagsData = [
   {
     id: 'bq', difficulty: 'demon', region: 'americas',
     imageUrl: 'https://flagcdn.com/w320/bq.png',
-    name_en: `Caribbean Netherlands`, name_jp: 'ボネール、シント・ユースタティウス及びサバ',
-    officialName_en: `Bonaire, Sint Eustatius and Saba`, officialName_jp: 'ボネール、シント・ユースタティウス及びサバ',
-    acceptedNames_jp: ["ボネール、シント・ユースタティウス及びサバ"],
+    name_en: `Caribbean Netherlands`, name_jp: 'ボネール、シント·ユースタティウス及びサバ',
+    officialName_en: `Bonaire, Sint Eustatius and Saba`, officialName_jp: 'ボネール、シント·ユースタティウス及びサバ',
+    acceptedNames_jp: ["ボネール、シント·ユースタティウス及びサバ"],
     acceptedNames_en: ["caribbean netherlands", "bonaire, sint eustatius and saba"],
   },
   {
@@ -1732,17 +1732,17 @@ export const flagsData = [
   {
     id: 'pm', difficulty: 'demon', region: 'americas',
     imageUrl: 'https://flagcdn.com/w320/pm.png',
-    name_en: `Saint Pierre and Miquelon`, name_jp: 'サンピエール島・ミクロン島',
+    name_en: `Saint Pierre and Miquelon`, name_jp: 'サンピエール島·ミクロン島',
     officialName_en: `Saint Pierre and Miquelon`, officialName_jp: 'サンピエール島·ミクロン島',
-    acceptedNames_jp: ["サンピエール島・ミクロン島", "サンピエール島·ミクロン島"],
+    acceptedNames_jp: ["サンピエール島·ミクロン島", "サンピエール島·ミクロン島"],
     acceptedNames_en: ["saint pierre and miquelon"],
   },
   {
     id: 'mf', difficulty: 'demon', region: 'americas',
     imageUrl: 'https://flagcdn.com/w320/mf.png',
-    name_en: `Saint Martin`, name_jp: 'サン・マルタン（フランス領）',
+    name_en: `Saint Martin`, name_jp: 'サン·マルタン（フランス領）',
     officialName_en: `Saint Martin`, officialName_jp: 'サンマルタン島',
-    acceptedNames_jp: ["サン・マルタン（フランス領）", "サンマルタン島"],
+    acceptedNames_jp: ["サン·マルタン（フランス領）", "サンマルタン島"],
     acceptedNames_en: ["saint martin"],
   },
   {
@@ -1796,9 +1796,9 @@ export const flagsData = [
   {
     id: 'tc', difficulty: 'demon', region: 'americas',
     imageUrl: 'https://flagcdn.com/w320/tc.png',
-    name_en: `Turks and Caicos Islands`, name_jp: 'タークス・カイコス諸島',
+    name_en: `Turks and Caicos Islands`, name_jp: 'タークス·カイコス諸島',
     officialName_en: `Turks and Caicos Islands`, officialName_jp: 'タークス·カイコス諸島',
-    acceptedNames_jp: ["タークス・カイコス諸島", "タークス·カイコス諸島"],
+    acceptedNames_jp: ["タークス·カイコス諸島", "タークス·カイコス諸島"],
     acceptedNames_en: ["turks and caicos islands"],
   },
   {
@@ -1852,9 +1852,9 @@ export const flagsData = [
   {
     id: 'sh', difficulty: 'demon', region: 'africa',
     imageUrl: 'https://flagcdn.com/w320/sh.png',
-    name_en: `Saint Helena, Ascension and Tristan da Cunha`, name_jp: 'セントヘレナ・アセンション及びトリスタンダクーニャ',
-    officialName_en: `Saint Helena, Ascension and Tristan da Cunha`, officialName_jp: 'セントヘレナ・アセンション及びトリスタンダクーニャ',
-    acceptedNames_jp: ["セントヘレナ・アセンション及びトリスタンダクーニャ"],
+    name_en: `Saint Helena, Ascension and Tristan da Cunha`, name_jp: 'セントヘレナ·アセンション及びトリスタンダクーニャ',
+    officialName_en: `Saint Helena, Ascension and Tristan da Cunha`, officialName_jp: 'セントヘレナ·アセンション及びトリスタンダクーニャ',
+    acceptedNames_jp: ["セントヘレナ·アセンション及びトリスタンダクーニャ"],
     acceptedNames_en: ["saint helena, ascension and tristan da cunha"],
   },
   {
@@ -1876,9 +1876,9 @@ export const flagsData = [
   {
     id: 'wf', difficulty: 'demon', region: 'oceania',
     imageUrl: 'https://flagcdn.com/w320/wf.png',
-    name_en: `Wallis and Futuna`, name_jp: 'ウォリス・フツナ',
+    name_en: `Wallis and Futuna`, name_jp: 'ウォリス·フツナ',
     officialName_en: `Territory of the Wallis and Futuna Islands`, officialName_jp: 'ウォリス·フツナ諸島の領土',
-    acceptedNames_jp: ["ウォリス・フツナ", "ウォリス·フツナ諸島の領土"],
+    acceptedNames_jp: ["ウォリス·フツナ", "ウォリス·フツナ諸島の領土"],
     acceptedNames_en: ["wallis and futuna", "territory of the wallis and futuna islands"],
   },
   {
@@ -1892,9 +1892,9 @@ export const flagsData = [
   {
     id: 'bl', difficulty: 'demon', region: 'americas',
     imageUrl: 'https://flagcdn.com/w320/bl.png',
-    name_en: `Saint Barthélemy`, name_jp: 'サン・バルテルミー',
+    name_en: `Saint Barthélemy`, name_jp: 'サン·バルテルミー',
     officialName_en: `Collectivity of Saint Barthélemy`, officialName_jp: 'サン·バルテルミー島の集合体',
-    acceptedNames_jp: ["サン・バルテルミー", "サン·バルテルミー島の集合体"],
+    acceptedNames_jp: ["サン·バルテルミー", "サン·バルテルミー島の集合体"],
     acceptedNames_en: ["saint barthélemy", "collectivity of saint barthélemy"],
   },
   {
@@ -1998,7 +1998,7 @@ export const flagsData = [
     imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Artsakh.svg/960px-Flag_of_Artsakh.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail',
     name_en: 'Artsakh', name_jp: 'アルツァフ',
     officialName_en: 'Republic of Artsakh', officialName_jp: 'アルツァフ共和国',
-    acceptedNames_jp: ['アルツァフ', 'アルツァフ共和国', 'ナゴルノ・カラバフ', 'ナゴルノ・カラバフ共和国'],
+    acceptedNames_jp: ['アルツァフ', 'アルツァフ共和国', 'ナゴルノ·カラバフ', 'ナゴルノ·カラバフ共和国'],
     acceptedNames_en: ['artsakh', 'republic of artsakh', 'republic of nagorno-karabakh', 'nagorno-karabakh'],
   },
   {
