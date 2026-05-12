@@ -614,7 +614,7 @@ export const flagsData = [
     imageUrl: 'https://flagcdn.com/w320/sy.png',
     name_en: `Syria`, name_jp: 'シリア・アラブ共和国',
     officialName_en: `Syrian Arab Republic`, officialName_jp: 'シリアアラブ共和国',
-    acceptedNames_jp: ["シリア・アラブ共和国", "シリアアラブ共和国"],
+    acceptedNames_jp: ["シリア・アラブ共和国", "シリアアラブ共和国", "シリア"],
     acceptedNames_en: ["syria", "syrian arab republic"],
   },
   {
