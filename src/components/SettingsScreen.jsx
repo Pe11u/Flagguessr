@@ -6,7 +6,7 @@ const SettingsScreen = ({ lang, settings, setSettings, onStart }) => {
     title: lang === 'jp' ? 'Flagguessr' : 'Flagguessr',
     region: lang === 'jp' ? '地域を選択' : 'Select Region',
     difficulty: lang === 'jp' ? '難易度を選択' : 'Select Difficulty',
-    questionCount: lang === 'jp' ? '問題数 (手動入力)' : 'Number of Questions',
+    questionCount: lang === 'jp' ? '問題数' : 'Number of Questions',
     quizMode: lang === 'jp' ? '出題方法' : 'Question Mode',
     flagToName: lang === 'jp' ? '国名で選ぶ' : 'Guess by Name',
     nameToFlag: lang === 'jp' ? '国旗で選ぶ' : 'Guess by Flag',
