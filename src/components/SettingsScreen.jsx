@@ -43,7 +43,7 @@ const SettingsScreen = ({ lang, settings, setSettings, onStart }) => {
     if (d === 'normal') return 50;
     if (d === 'hard') return 99;
     if (d === 'extreme') return 45;
-    if (d === 'demon') return 57;
+    if (d === 'demon') return 63;
     return 10;
   };
 
