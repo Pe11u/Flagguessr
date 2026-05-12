@@ -29,8 +29,8 @@ export const flagsData = [
     id: 'gb', difficulty: 'common_sense', region: 'europe',
     imageUrl: 'https://flagcdn.com/w320/gb.png',
     name_en: `United Kingdom`, name_jp: 'イギリス',
-    officialName_en: `United Kingdom of Great Britain and Northern Ireland`, officialName_jp: 'グレート·ブリテンおよび北アイルランド連合王国',
-    acceptedNames_jp: ["イギリス", "グレート·ブリテンおよび北アイルランド連合王国"],
+    officialName_en: `United Kingdom of Great Britain and Northern Ireland`, officialName_jp: 'グレート·ブリテン及び北アイルランド連合王国',
+    acceptedNames_jp: ["イギリス", "グレート·ブリテン及び北アイルランド連合王国"],
     acceptedNames_en: ["united kingdom", "united kingdom of great britain and northern ireland"],
   },
   {
@@ -1428,9 +1428,9 @@ export const flagsData = [
   {
     id: 'vc', difficulty: 'extreme', region: 'americas',
     imageUrl: 'https://flagcdn.com/w320/vc.png',
-    name_en: `Saint Vincent and the Grenadines`, name_jp: 'セントビンセントおよびグレナディーン諸島',
-    officialName_en: `Saint Vincent and the Grenadines`, officialName_jp: 'セントビンセントおよびグレナディーン諸島',
-    acceptedNames_jp: ["セントビンセントおよびグレナディーン諸島"],
+    name_en: `Saint Vincent and the Grenadines`, name_jp: 'セントビンセント及びグレナディーン諸島',
+    officialName_en: `Saint Vincent and the Grenadines`, officialName_jp: 'セントビンセント及びグレナディーン諸島',
+    acceptedNames_jp: ["セントビンセント及びグレナディーン諸島", "セントビンセント・グレナディーン"],
     acceptedNames_en: ["saint vincent and the grenadines"],
   },
   {
