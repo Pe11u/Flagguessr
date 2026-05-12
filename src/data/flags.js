@@ -1700,9 +1700,9 @@ export const flagsData = [
   {
     id: 'bq', difficulty: 'demon', region: 'americas',
     imageUrl: 'https://flagcdn.com/w320/bq.png',
-    name_en: `Caribbean Netherlands`, name_jp: 'ボネール、シント・ユースタティウスおよびサバ',
-    officialName_en: `Bonaire, Sint Eustatius and Saba`, officialName_jp: 'ボネール、シント・ユースタティウスおよびサバ',
-    acceptedNames_jp: ["ボネール、シント・ユースタティウスおよびサバ"],
+    name_en: `Caribbean Netherlands`, name_jp: 'ボネール、シント・ユースタティウス及びサバ',
+    officialName_en: `Bonaire, Sint Eustatius and Saba`, officialName_jp: 'ボネール、シント・ユースタティウス及びサバ',
+    acceptedNames_jp: ["ボネール、シント・ユースタティウス及びサバ"],
     acceptedNames_en: ["caribbean netherlands", "bonaire, sint eustatius and saba"],
   },
   {
@@ -1804,9 +1804,9 @@ export const flagsData = [
   {
     id: 'sj', difficulty: 'demon', region: 'europe',
     imageUrl: 'https://flagcdn.com/w320/sj.png',
-    name_en: `Svalbard and Jan Mayen`, name_jp: 'スヴァールバル諸島およびヤンマイエン島',
+    name_en: `Svalbard and Jan Mayen`, name_jp: 'スヴァールバル諸島及びヤンマイエン島',
     officialName_en: `Svalbard og Jan Mayen`, officialName_jp: 'スバールバル諸島OGヤンマイエン',
-    acceptedNames_jp: ["スヴァールバル諸島およびヤンマイエン島", "スバールバル諸島OGヤンマイエン"],
+    acceptedNames_jp: ["スヴァールバル諸島及びヤンマイエン島", "スバールバル諸島OGヤンマイエン"],
     acceptedNames_en: ["svalbard and jan mayen", "svalbard og jan mayen"],
   },
   {
@@ -1852,9 +1852,9 @@ export const flagsData = [
   {
     id: 'sh', difficulty: 'demon', region: 'africa',
     imageUrl: 'https://flagcdn.com/w320/sh.png',
-    name_en: `Saint Helena, Ascension and Tristan da Cunha`, name_jp: 'セントヘレナ・アセンションおよびトリスタンダクーニャ',
-    officialName_en: `Saint Helena, Ascension and Tristan da Cunha`, officialName_jp: 'セントヘレナ・アセンションおよびトリスタンダクーニャ',
-    acceptedNames_jp: ["セントヘレナ・アセンションおよびトリスタンダクーニャ"],
+    name_en: `Saint Helena, Ascension and Tristan da Cunha`, name_jp: 'セントヘレナ・アセンション及びトリスタンダクーニャ',
+    officialName_en: `Saint Helena, Ascension and Tristan da Cunha`, officialName_jp: 'セントヘレナ・アセンション及びトリスタンダクーニャ',
+    acceptedNames_jp: ["セントヘレナ・アセンション及びトリスタンダクーニャ"],
     acceptedNames_en: ["saint helena, ascension and tristan da cunha"],
   },
   {
