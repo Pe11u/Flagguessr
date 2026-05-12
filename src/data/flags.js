@@ -2083,7 +2083,7 @@ export const flagsData = [
   },
   {
     id: 'ZZ', difficulty: 'demon', region: 'europe',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/1280px-Flag_of_Zanzibar.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_the_Order_of_St._John_%28various%29.svg/1280px-Flag_of_the_Order_of_St._John_%28various%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail',
     name_en: 'Order of Malta', name_jp: 'マルタ騎士団',
     officialName_en: 'Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta', officialName_jp: 'エルサレム、ロードス及びマルタにおける聖ヨハネ主権軍事病院騎士修道会',
     acceptedNames_jp: ['マルタ騎士団'],
