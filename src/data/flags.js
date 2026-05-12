@@ -2047,7 +2047,7 @@ export const flagsData = [
     name_en: 'East Turkistan', name_jp: '東トルキスタン',
     officialName_en: 'East Turkistan', officialName_jp: '東トルキスタン',
     acceptedNames_jp: ['東トルキスタン', '新疆ウイグル自治区', 'ウイグル'],
-    acceptedNames_en: ['east turkistan', 'xinjiang Uygur autonomous region', 'uygur', 'uygurs'],
+    acceptedNames_en: ['east turkistan', 'xinjiang uygur autonomous region', 'uygur', 'uygurs'],
   },
   {
     id: 'tibet', difficulty: 'demon', region: 'asia',
