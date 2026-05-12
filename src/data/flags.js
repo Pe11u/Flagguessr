@@ -1954,6 +1954,14 @@ export const flagsData = [
     acceptedNames_en: ['somaliland'],
   },
   {
+    id: 'puntland', difficulty: 'demon', region: 'africa',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Puntland.svg/250px-Flag_of_Puntland.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail',
+    name_en: 'Puntland', name_jp: 'プントランド',
+    officialName_en: 'Puntland', officialName_jp: 'プントランド',
+    acceptedNames_jp: ['プントランド'],
+    acceptedNames_en: ['puntland'],
+  },
+  {
     id: 'trnc', difficulty: 'demon', region: 'europe',
     imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg/960px-Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail',
     name_en: 'Northern Cyprus', name_jp: '北キプロス',
