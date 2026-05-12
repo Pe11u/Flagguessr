@@ -1693,8 +1693,8 @@ export const flagsData = [
     id: 'gg', difficulty: 'demon', region: 'europe',
     imageUrl: 'https://flagcdn.com/w320/gg.png',
     name_en: `Guernsey`, name_jp: 'ガーンジー',
-    officialName_en: `Bailiwick of Guernsey`, officialName_jp: 'ガーンジーの得意分野',
-    acceptedNames_jp: ["ガーンジー", "ガーンジーの得意分野"],
+    officialName_en: `Bailiwick of Guernsey`, officialName_jp: 'ガーンジー島代官管轄区',
+    acceptedNames_jp: ["ガーンジー", "ガーンジー島代官管轄区"],
     acceptedNames_en: ["guernsey", "bailiwick of guernsey"],
   },
   {
@@ -1773,8 +1773,8 @@ export const flagsData = [
     id: 'je', difficulty: 'demon', region: 'europe',
     imageUrl: 'https://flagcdn.com/w320/je.png',
     name_en: `Jersey`, name_jp: 'ジャージー',
-    officialName_en: `Bailiwick of Jersey`, officialName_jp: 'ジャージの得意分野',
-    acceptedNames_jp: ["ジャージー", "ジャージの得意分野"],
+    officialName_en: `Bailiwick of Jersey`, officialName_jp: 'ジャージ島代官管轄区',
+    acceptedNames_jp: ["ジャージー", "ジャージ島代官管轄区"],
     acceptedNames_en: ["jersey", "bailiwick of jersey"],
   },
   {
