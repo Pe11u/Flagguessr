@@ -779,11 +779,11 @@ export const flagsData = [
   },
   {
     id: 'af', difficulty: 'hard', region: 'asia',
-    imageUrl: 'https://flagcdn.com/w320/af.png',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/3840px-Flag_of_the_Taliban.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail',
     name_en: `Afghanistan`, name_jp: 'アフガニスタン',
     officialName_en: `Islamic Republic of Afghanistan`, officialName_jp: 'アフガニスタン·イスラム共和国',
-    acceptedNames_jp: ["アフガニスタン", "アフガニスタン·イスラム共和国"],
-    acceptedNames_en: ["afghanistan", "islamic republic of afghanistan"],
+    acceptedNames_jp: ["アフガニスタン", "アフガニスタン·イスラム共和国", "アフガニスタン・イスラム首長国"],
+    acceptedNames_en: ["afghanistan", "islamic republic of afghanistan", "Islamic Emirate of Afghanistan"],
   },
   {
     id: 'bw', difficulty: 'hard', region: 'africa',
