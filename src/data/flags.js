@@ -38,7 +38,7 @@ export const flagsData = [
     imageUrl: 'https://flagcdn.com/w320/cn.png',
     name_en: `China`, name_jp: '中国',
     officialName_en: `People's Republic of China`, officialName_jp: '中華人民共和国',
-    acceptedNames_jp: ["中国", "中華人民共和国"],
+    acceptedNames_jp: ["中国", "中華人民共和国", "志那"],
     acceptedNames_en: ["china", "people's republic of china"],
   },
   {
@@ -78,7 +78,7 @@ export const flagsData = [
     imageUrl: 'https://flagcdn.com/w320/ru.png',
     name_en: `Russia`, name_jp: 'ロシア連邦',
     officialName_en: `Russian Federation`, officialName_jp: 'ロシア連邦',
-    acceptedNames_jp: ["ロシア連邦"],
+    acceptedNames_jp: ["ロシア連邦", "ロシア"],
     acceptedNames_en: ["russia", "russian federation"],
   },
   {
@@ -102,7 +102,7 @@ export const flagsData = [
     imageUrl: 'https://flagcdn.com/w320/us.png',
     name_en: `United States`, name_jp: 'アメリカ合衆国',
     officialName_en: `United States of America`, officialName_jp: 'アメリカ合衆国',
-    acceptedNames_jp: ["アメリカ合衆国"],
+    acceptedNames_jp: ["アメリカ合衆国", "アメリカ"],
     acceptedNames_en: ["united states", "united states of america"],
   },
   {
@@ -110,7 +110,7 @@ export const flagsData = [
     imageUrl: 'https://flagcdn.com/w320/jp.png',
     name_en: `Japan`, name_jp: '日本',
     officialName_en: `Japan`, officialName_jp: '日本',
-    acceptedNames_jp: ["日本"],
+    acceptedNames_jp: ["日本", "日本国"],
     acceptedNames_en: ["japan"],
   },
   {
@@ -231,7 +231,7 @@ export const flagsData = [
     name_en: `Netherlands`, name_jp: 'オランダ',
     officialName_en: `Kingdom of the Netherlands`, officialName_jp: 'オランダ',
     acceptedNames_jp: ["オランダ"],
-    acceptedNames_en: ["netherlands", "kingdom of the netherlands"],
+    acceptedNames_en: ["netherlands", "kingdom of the netherlands", "holland"],
   },
   {
     id: 'nz', difficulty: 'easy', region: 'oceania',
@@ -1734,7 +1734,7 @@ export const flagsData = [
     imageUrl: 'https://flagcdn.com/w320/pm.png',
     name_en: `Saint Pierre and Miquelon`, name_jp: 'サンピエール島·ミクロン島',
     officialName_en: `Saint Pierre and Miquelon`, officialName_jp: 'サンピエール島·ミクロン島',
-    acceptedNames_jp: ["サンピエール島·ミクロン島", "サンピエール島·ミクロン島"],
+    acceptedNames_jp: ["サンピエール島·ミクロン島"],
     acceptedNames_en: ["saint pierre and miquelon"],
   },
   {
